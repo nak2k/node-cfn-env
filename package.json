@@ -1,0 +1,30 @@
+{
+  "name": "cfn-env",
+  "version": "0.0.1",
+  "description": "Set process.env from metadata of CloudFormation",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-cfn-env/issues"
+  },
+  "dependencies": {
+    "cfn-metadata": "0.0.1",
+    "object-assign": "^2.0.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-cfn-env",
+  "keywords": [
+    "aws",
+    "cloudformation"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nak2k/node-cfn-env.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
