@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cfn-metadata": "0.0.1",
-    "object-assign": "^2.0.0"
+    "object-assign": "^4.0.1"
   },
   "devDependencies": {},
   "homepage": "https://github.com/nak2k/node-cfn-env",
