@@ -7,7 +7,7 @@
     "url": "https://github.com/nak2k/node-cfn-env/issues"
   },
   "dependencies": {
-    "cfn-metadata": "0.0.1",
+    "cfn-metadata": "0.0.2",
     "object-assign": "^4.0.1"
   },
   "devDependencies": {},
