@@ -3,8 +3,8 @@
 ## Usage
 
 ```
-var cfnEnv = require('cfn-env');
+const cfnEnv = require('cfn-env');
 
-cfnEnv('MyApp::Env', function(err, data) {
+cfnEnv('MyApp::Env', (err, data) => {
 });
 ```
